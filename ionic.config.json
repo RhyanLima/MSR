@@ -1,0 +1,7 @@
+{
+  "name": "msr",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
